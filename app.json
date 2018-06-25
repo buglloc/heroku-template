@@ -22,5 +22,5 @@
       "quantity": 1
     }
   },
-  "errors": "asdsad<b>sad"
+  "errors": ["asdsad<b>sad"]
 }
