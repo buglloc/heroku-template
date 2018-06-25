@@ -23,5 +23,5 @@
       "quantity": 1
     }
   },
-  "addons":["//sd/../sss"]
+  "addons":["mongolab://sd/../sss"]
 }
