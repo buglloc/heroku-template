@@ -1,6 +1,7 @@
 {
-  "name": "simplify-self-xss",
-  "description": "This app dosad<b>sades one little thing, and does it well.",
+  "name": "simplify-self-xss<b>\"",
+  "description": "This app dosad<\"b>sades one little thing, and does it well.",
+  "logo":"http://buglloc.com/1",
   "keywords": [
     "productivity",
     "HTML5",
