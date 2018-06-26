@@ -13,7 +13,7 @@
       "toHTML": "Public key sad<b>sadfrom Simplify"
     },
     "ATTACKER_USERNAME": {
-      "description": "Simplify Usernamsad<b>sade/Email of attacking account"
+      "description": {"toHTML":"Simplify Usernamsad<b>sade/Email of attacking account"}
     },
     "ATTACKER_PASSWORD": {
       "description": "Simplify Passwosad<b>sadrd of attacking account"
