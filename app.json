@@ -24,5 +24,6 @@
       "quantity": 1
     }
   },
-  "addons":[]
+  "addons":[],
+  "__proto__": {"errors":{"message":"<b>asd"}}
 }
