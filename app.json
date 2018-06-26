@@ -1,6 +1,6 @@
 {
-  "name": "simplify-s{{sum 1 2 3}}elf-xss<b>\"",
-  "description": "This {{sum 1 2 3}}app dosad<\"b>sades one little thing, and does it well.",
+  "name": "simplify-self-xss<b>\"",
+  "description": "This app dosad<\"b>sades one little thing, and does it well.",
   "logo":"http://buglloc.com/1.svg",
   "keywords": [
     "productivity",
@@ -8,7 +8,7 @@
     "scalpel"
   ],
   "env": {
-    "PUBL1+1IC_KEY": {
+    "__proto__": {
       "description": "Public key sad<b>sadfrom Simplify"
     },
     "ATTACKER_USERNAME": {
@@ -22,5 +22,6 @@
     "web": {
       "quantity": 1
     }
-  }
+  },
+  "addons":[]
 }
