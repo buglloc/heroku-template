@@ -25,5 +25,5 @@
     }
   },
   "addons":[],
-  "__proto__": {"errors":{"message":"<b>asd"}}
+  "__proto__": {"errors":["message":"<b>asd{{1+1}}","property":"<b>{{1+1}}asd"]}
 }
