@@ -24,6 +24,5 @@
       "quantity": 1
     }
   },
-  "addons":[],
-  "__proto__": {"schema":null. "errors":[{"message":"<b>asd{{1+1}}","property":{"toHTML":"<b>{{1+1}}asd"}}]}
+  "addons":["/../../../../:11"]
 }
