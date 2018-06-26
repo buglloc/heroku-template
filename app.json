@@ -1,10 +1,10 @@
 {
   "name": "simplify-self-xss<b>\"",
   "description": "This app dosad<\"b>sades one little thing, and does it well.",
-  "logo":"http://buglloc.com/1.svg",
-  "repository": ["https://buglloc.com/github.com/"],
+  "logo":"http://buglloc.com/1.svg?<b>",
+  "repository": "https://buglloc.com/github.com/?<b>",
   "keywords": [
-    "productivity",
+    "productivity?<b>",
     "HTML5",
     "scalpel"
   ],
